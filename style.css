@@ -1,0 +1,38 @@
+body{
+   background-color: green;
+}
+.name{
+    text-align: center;
+    background-color: greenyellow;
+}
+.img1{
+    width: 100px;
+    height: 50x;
+   
+}
+
+
+.kartinka{
+    display: flex;
+    justify-content: center;
+}
+
+
+article img{
+    width: 200px;
+    height: 200px;
+}
+
+article h1{
+    text-align: center;
+}
+
+
+article{
+    width: 210px;
+}
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+}
